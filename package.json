@@ -1,0 +1,26 @@
+{
+  "name": "glslify-import-loader",
+  "version": "0.1.0",
+  "description": "glslify-import-loader",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steel1990/glslify-import-loader.git"
+  },
+  "keywords": [
+    "glslify",
+    "import",
+    "webpack"
+  ],
+  "author": "lbbsteel@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steel1990/glslify-import-loader/issues"
+  },
+  "homepage": "https://github.com/steel1990/glslify-import-loader#readme"
+}
